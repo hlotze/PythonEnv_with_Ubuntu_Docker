@@ -1,5 +1,7 @@
 # A dockerized Python Development Environment
 
+This summerizes my notes during playing with docker, building an ubuntu environment.
+
 ## Motivation
 
 On our Window PC, we like to have an Linux environment, for

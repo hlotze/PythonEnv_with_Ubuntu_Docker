@@ -26,7 +26,3 @@ RUN mkdir -p /home/docker && chown -R docker:docker /home/docker
 USER root
 RUN zsh
 
-
-
-
-
